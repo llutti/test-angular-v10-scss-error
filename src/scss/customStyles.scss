@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@import "components/_header.scss";
+
+.container {
+  padding: 20px;
+}
+
+.logoSize
+{
+  width: 100px;
+  height: 100px;
+  border: 1px red solid;
+}
+
+.logoBase
+{
+  background: url('../assets/images/logo.png');
+}
